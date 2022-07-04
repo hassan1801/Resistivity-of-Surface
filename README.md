@@ -3,3 +3,5 @@ In an electron system where Dirac fermions exist, such as the surface of a 3D to
 Here, we have considered the Ising interaction between the magnetic impurities and calculated the size and number behavior of the system based on different temperatures.
 At first, we balance the system and use different definitions for pre-critical and post-critical temperatures. To count the clusters, we use the Hoshen-kopelman algorithm and histogram.
 ![alt text](https://github.com/hassan1801/Resistivity-of-Surface/blob/main/NNNNN1.jpg)
+![alt text](https://github.com/hassan1801/Resistivity-of-Surface/blob/main/SSSS1.jpg)
+![alt text](https://github.com/hassan1801/Resistivity-of-Surface/blob/main/rhozarezad1.jpg)
